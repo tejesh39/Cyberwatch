@@ -1,0 +1,6 @@
+feedparser
+requests
+deepl
+feedgen
+openai
+newspaper3k
